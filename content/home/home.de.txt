@@ -1,0 +1,17 @@
+Title: Startseite
+
+----
+
+Text: 
+
+Yay! Wenn du das siehst hat die Installation von Kirby geklappt :)
+
+## Los geht's
+
+- Gehe zum (link: panel text: panel) um Kirby's Admin Oberfläche auszuprobieren.
+- Schaue dir die (link: http://getkirby.com/docs text: Dokumentation) an und starte mit deiner eigenen Seite
+- Folge (twitter: @getkirby) auf Twitter um immer auf dem Laufenden zu bleiben.
+- Besuche das (link: http://forum.getkirby.com text: Forum), um dich mit anderen Kirby Benutzern auszutauschen.
+- (link: http://getkirby.com/support text: Schreib uns), wenn du Hilfe brauchst.
+
+**Viel Spaß mit Kirby!**

@@ -1,0 +1,24 @@
+Title: Kontakt
+
+----
+
+URL-Key: kontakt
+
+----
+
+Text:
+
+## So erreichst du uns…
+
+- (link: http://getkirby.com/support text: Kirby's Support Seite)
+- (link: http://forum.getkirby.com text: Kirby's Forum)
+- (link: http://github.com/getkirby text: Kirby auf Github)
+- <support@getkirby.com>
+
+## Folge uns auf Twitter
+
+- Folge Kirby auf Twitter (twitter: @getkirby)
+- Folge Bastian auf Twitter (twitter: @bastianallgeier)
+- Folge Nico auf Twitter (twitter: @distantnative)
+- Folge Sascha auf Twitter (twitter: @sashtown)
+
