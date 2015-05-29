@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php echo str_replace('_', '-', $site->language()->locale()) ?>">
 <head>
 
   <meta charset="utf-8" />
