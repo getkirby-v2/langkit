@@ -53,7 +53,7 @@ from http://download.getkirby.com
 If you are familiar with Git, you can clone Kirby's
 Starterkit repository from Github.
 
-    git clone --recursive https://github.com/getkirby/starterkit.git
+    git clone --recursive https://github.com/getkirby/langkit.git
 
 ## Documentation
 <http://getkirby.com/docs>
