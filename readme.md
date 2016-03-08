@@ -45,15 +45,15 @@ Kirby runs on PHP 5.4+, Apache or Nginx.
 
 ### Download
 
-You can download the latest version of the Starterkit
+You can download the latest version of the langkit
 from http://download.getkirby.com
 
 ### With Git
 
 If you are familiar with Git, you can clone Kirby's
-Starterkit repository from Github.
+langkit repository from Github.
 
-    git clone --recursive https://github.com/getkirby/starterkit.git
+    git clone --recursive https://github.com/getkirby/langkit.git
 
 ## Documentation
 <http://getkirby.com/docs>
@@ -65,7 +65,7 @@ directly on Github:
 
 - <https://github.com/getkirby/kirby/issues>
 - <https://github.com/getkirby/panel/issues>
-- <https://github.com/getkirby/starterkit/issues>
+- <https://github.com/getkirby/langkit/issues>
 
 Otherwise you can use Kirby's forum: http://getkirby.com/forum
 or send us an email: <support@getkirby.com>
