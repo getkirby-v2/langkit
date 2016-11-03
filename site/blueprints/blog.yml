@@ -1,0 +1,59 @@
+title: Blog
+
+files: false
+
+pages:
+  template: article
+  sort: flip
+  num: date
+
+options: 
+  template: false
+  status: false
+
+icon: newspaper-o
+
+fields:
+  title:
+    label:
+      en: Title
+      de: Titel
+    type: title
+    required: true
+    width: 3/4
+
+  perpage:
+    label:
+      en: Posts per page
+      de: Beiträge pro Seite
+    type: number
+    min: 1
+    max: 20
+    default: 5
+    width: 1/4
+    translate: false # Do not translate the perpage setting
+    help:
+      en: This setting can only be changed in the default language.
+      de: Diese Einstellung kann nur in der Standardsprache geändert werden.
+
+
+  text:
+    label: Text
+    type: textarea
+
+  info:
+    label:
+      en: Hint
+      de: Hinweis
+    type: info
+    text:
+      en: >
+        The blog page fetches its subpages and displays them as blog posts.
+        To fill the blog page with content, just hit the <b>Add</b> button
+        to create a new article. Your blog articles will be automatically ordered by
+        date.
+      de: >
+        Die Blogseite holt sich alle ihre Unterseiten und stellt diese als
+        Blogbeiträge dar. Um die Blogseite mit Inhalt zu füllen, klicke
+        bitte auf den <b>Hinzufügen</b>-Button in der Seitenleiste. Die 
+        Artikel werden automatisch nach Datum sortiert.

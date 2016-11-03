@@ -1,0 +1,35 @@
+title:
+  en: Article
+  de: Artikel
+
+pages: false
+
+fields:
+  title:
+    label:
+      en: Title
+      de: Titel
+    type:  title
+    
+  coverimage:
+    label:
+      en:  Cover Image
+      de:  Beitragsbild
+    type:  image
+    width: 1/2
+    
+  date:
+    label:
+      en: Date
+      de: Datum
+    icon: calendar
+    type: date
+    format: LL
+    placeholder: Select a date…
+    default: today
+    required: true
+    width: 1/2
+  
+  text:
+    label: Text
+    type:  textarea

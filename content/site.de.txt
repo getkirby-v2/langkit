@@ -1,17 +1,9 @@
-Title: Kirby Sprachen Kit
+Title: Kirby Sprachen-Kit
 
 ----
 
-Author: Bastian Allgeier GmbH
+Description: Dies ist Kirby's Sprachen-Kit.
 
 ----
 
-Description: Das ist Kirby's Starterkit.
-
-----
-
-Keywords: Kirby, CMS, datei-basiert
-
-----
-
-Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+Copyright: © 2009–(date: Year) (link: http://getkirby.com text: Das Kirby-Team)

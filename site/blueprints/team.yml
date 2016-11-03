@@ -1,0 +1,41 @@
+title:
+  en: Team Member
+  de: Team-Mitglied
+
+pages: false
+
+icon: user
+
+preview: parent
+
+fields:
+  title:
+    label: Name
+    type:  title
+
+  position:
+    label: Position
+    type:  text
+    required: true
+
+  about:
+    label:
+      en: About
+      de: Kurzbiografie
+    type: textarea
+
+  phone:
+    label:
+      en: Phone Number
+      de: Telefonnummer
+    type: tel
+    required: true
+    width: 1/2
+
+  email:
+    label:
+      en: Email Address
+      de: Email-Adresse
+    type: email
+    required: true
+    width: 1/2

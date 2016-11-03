@@ -1,0 +1,32 @@
+title:
+  en: About
+  de: Über uns
+
+pages:
+  template: team
+  num: zero
+  
+files: false
+
+options: 
+  template: false  
+  status: false  
+
+fields:
+  title:
+    label:
+      en:  Title
+      de:  Titel
+    type:  title
+    
+  intro:
+    label:
+      en:  Intro
+      de:  Einleitungstext
+    type:  textarea
+    size:  small
+    
+  text:
+    label: Text
+    type:  textarea
+    size:  large

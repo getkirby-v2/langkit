@@ -29,18 +29,17 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
 
-c::set('languages', array(
-  array(
-    'name'    => 'English',
+c::set('languages', [
+  [
     'code'    => 'en',
-    'locale'  => 'en_US.utf-8',
+    'name'    => 'English',
     'default' => true,
-    'url'     => '/'
-  ),
-  array(
-    'name'    => 'Deutsch',
+    'locale'  => 'en_US',
+    'url'     => '/',
+  ], [
     'code'    => 'de',
-    'locale'  => 'de_DE.utf-8',
-    'url'     => '/de'
-  )
-));
+    'name'    => 'Deutsch',
+    'locale'  => 'de_DE',
+    'url'     => '/de',
+  ],
+]);

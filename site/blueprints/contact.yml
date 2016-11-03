@@ -1,0 +1,55 @@
+title:
+  en: Contact
+  de: Kontakt
+
+pages: false
+
+options: 
+  delete: false
+  status: false
+  
+fields: 
+  title:
+    label:
+      en: Title
+      de: Titel
+    type: title
+  
+  intro:
+    label:
+      en: Intro
+      de: Einleitungstext
+    type: textarea
+    
+  contactoptions:
+    label:
+      en: Contact Options
+      de: Kontaktmöglichkeiten
+    type: structure
+    style: table
+    fields:
+      title:
+        label:
+          en:  Title
+          de:  Titel
+        type:  text
+      icon:
+        label:
+          en:  Icon
+          de:  Symbol
+        type:  image
+      text:
+        label: Text
+        type:  text
+      url:
+        label: URL
+        type:  text
+      linktext:
+        label:
+          en:  Link Text
+          de:  Linktext
+        type:  text
+  
+  text:
+    label: Text
+    type: textarea

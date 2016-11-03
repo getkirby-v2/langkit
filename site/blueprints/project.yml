@@ -1,17 +1,27 @@
-title: Project
-pages: false
+title:
+  en: Project
+  de: Projekt
+
 files:
   sortable: true
+
+pages: false
+
 fields:
   title:
-    label: Title
+    label:
+      en:  Title
+      de:  Titel
     type:  text
+    width: 3/4
+
   year:
-    label: Year
+    label:
+      en:  Year
+      de:  Jahr
     type:  text
+    width: 1/4
+
   text:
     label: Text
     type:  textarea
-  tags:
-    label: Tags
-    type:  tags
