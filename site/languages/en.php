@@ -15,5 +15,5 @@ l::set('about.team',             'Our Purring Team');
 l::set('about.email',            'Email:');
 l::set('about.phone',            'Phone:');
 
-l::set('pagination.newer',       'newer articles');
+l::set('pagination.prev',       'newer articles');
 l::set('pagination.next',        'older articles');
