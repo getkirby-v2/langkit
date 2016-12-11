@@ -16,9 +16,7 @@ fields:
       en:  Intro
       de:  Einleitungstext
     type:  textarea
-    size:  small
 
   text:
     label: Text
     type:  textarea
-    size:  large
