@@ -379,7 +379,7 @@ h1 + .intro {
   border-color: #4509be;
 }
 
-/* -----  2.4 Grid & Layout  ------------------------------------------------ */
+/* -----  2.3 Grid & Layout  ------------------------------------------------ */
 
 .grid {
   font-size: 0;
@@ -738,26 +738,6 @@ body {
   border-bottom: 0;
 }
 
-.languages-item a::before {
-  content: attr(data-code);
-  text-transform: uppercase;
-}
-
-.languages-item a span {
-  /* It would be easier to hide this element by using
-     `display: none`, but then it would not be
-     accessible for screenreaders any more. So we are
-     doing this the hard way, as suggested at:
-     https://css-tricks.com/places-its-tempting-to-use-display-none-but-dont/
-     */
-  position: absolute;
-  overflow: hidden;
-  height: 1px;
-  width: 1px;
-  margin: -1px;
-  clip: rect(0 0 0 0);
-}
-
 .languages-item.is-active a {
   border-bottom: 2px solid #71efac;
 }
@@ -766,17 +746,6 @@ body {
   .languages {
     top: -2em;
     margin-bottom: -1em;
-  }
-  .languages-item a::before {
-    content: none;
-  }
-  .languages-item a span {
-    position: static;
-    overflow: visible;
-    height: auto;
-    width: auto;
-    margin: 0;
-    clip: none;
   }
 }
 
