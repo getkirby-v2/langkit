@@ -1,7 +1,13 @@
-# Kirby
+# Kirby v2 Langkit
 
 Kirby is a file-based CMS.
 Easy to setup. Easy to use. Flexible as hell.
+
+## Kirby 2 - EOL
+
+Kirby 2 is an old version of Kirby CMS. We are supporting it with security updates until December 31st, 2020. 
+
+For the latest version of Kirby, check out https://getkirby.com
 
 ## Trial
 
@@ -23,7 +29,7 @@ Kirby's Langkit comes with a small *multilingual* demo website
 and a fully configured panel. Feel free to modify it and play
 with it as much as you like.
 
-There's also the [Starterkit](https://github.com/getkirby/starterkit.git)
+There's also the [Starterkit](https://github.com/getkirby-v2/starterkit.git)
 in case you only need a single language installation.
 
 ## The Panel
@@ -44,39 +50,18 @@ copied to your server correctly**
 
 ### Requirements
 
-Kirby runs on PHP 5.4+, Apache or Nginx.
-
-### Download
-
-You can download the latest version of the Starterkit
-from https://download.getkirby.com
+Kirby runs on PHP 7.2+, Apache or Nginx.
 
 ### With Git
 
 If you are familiar with Git, you can clone Kirby's
 Langkit repository from Github.
 
-    git clone https://github.com/getkirby/langkit.git
+    git clone https://github.com/getkirby-v2/langkit.git
 
 ## Documentation
 
-<https://getkirby.com/docs>
-
-## Issues and feedback
-
-If you have a Github account, please report issues
-directly on Github:
-
-- <https://github.com/getkirby/kirby/issues>
-- <https://github.com/getkirby/panel/issues>
-- <https://github.com/getkirby/langkit/issues>
-
-Otherwise you can use Kirby's forum: https://forum.getkirby.com
-or send us an email: <support@getkirby.com>
-
-## Support
-
-<https://getkirby.com/support>
+<https://k2.getkirby.com>
 
 ## Copyright
 
